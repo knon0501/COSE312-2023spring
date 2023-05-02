@@ -9,7 +9,7 @@
     core 
     yojson 
     batteries
-    z3
+
   )
   (package pycompiler)
 )
